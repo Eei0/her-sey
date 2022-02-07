@@ -1,0 +1,9 @@
+D:\C#\PROJELER\class islemler\class islemler\bin\Debug\class islemler.exe.config
+D:\C#\PROJELER\class islemler\class islemler\bin\Debug\class islemler.exe
+D:\C#\PROJELER\class islemler\class islemler\bin\Debug\class islemler.pdb
+D:\C#\PROJELER\class islemler\class islemler\obj\Debug\class islemler.csprojResolveAssemblyReference.cache
+D:\C#\PROJELER\class islemler\class islemler\obj\Debug\class_islemler.Form1.resources
+D:\C#\PROJELER\class islemler\class islemler\obj\Debug\class_islemler.Properties.Resources.resources
+D:\C#\PROJELER\class islemler\class islemler\obj\Debug\class islemler.csproj.GenerateResource.Cache
+D:\C#\PROJELER\class islemler\class islemler\obj\Debug\class islemler.exe
+D:\C#\PROJELER\class islemler\class islemler\obj\Debug\class islemler.pdb
