@@ -1,0 +1,11 @@
+C:\Users\eeisc\Desktop\c#\uygulamalar\diziler uygulama\diziler uygulama\bin\Debug\diziler uygulama.exe.config
+C:\Users\eeisc\Desktop\c#\uygulamalar\diziler uygulama\diziler uygulama\bin\Debug\diziler uygulama.exe
+C:\Users\eeisc\Desktop\c#\uygulamalar\diziler uygulama\diziler uygulama\bin\Debug\diziler uygulama.pdb
+C:\Users\eeisc\Desktop\c#\uygulamalar\diziler uygulama\diziler uygulama\obj\Debug\diziler uygulama.csproj.AssemblyReference.cache
+C:\Users\eeisc\Desktop\c#\uygulamalar\diziler uygulama\diziler uygulama\obj\Debug\diziler uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\eeisc\Desktop\c#\uygulamalar\diziler uygulama\diziler uygulama\obj\Debug\diziler_uygulama.Form1.resources
+C:\Users\eeisc\Desktop\c#\uygulamalar\diziler uygulama\diziler uygulama\obj\Debug\diziler_uygulama.Properties.Resources.resources
+C:\Users\eeisc\Desktop\c#\uygulamalar\diziler uygulama\diziler uygulama\obj\Debug\diziler uygulama.csproj.GenerateResource.cache
+C:\Users\eeisc\Desktop\c#\uygulamalar\diziler uygulama\diziler uygulama\obj\Debug\diziler uygulama.csproj.CoreCompileInputs.cache
+C:\Users\eeisc\Desktop\c#\uygulamalar\diziler uygulama\diziler uygulama\obj\Debug\diziler uygulama.exe
+C:\Users\eeisc\Desktop\c#\uygulamalar\diziler uygulama\diziler uygulama\obj\Debug\diziler uygulama.pdb
